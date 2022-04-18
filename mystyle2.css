@@ -1,0 +1,40 @@
+body {
+  font-family: Georgia, "Times New Roman",
+ Times, serif;
+color: #426579;
+background: url("img/mount.jpg");
+ }
+div.head h1{
+  text-align: center;
+  font-size: 60px;
+  text-shadow: 4px 4px 15px #abced8;
+}
+div.tip1 p{
+  font-size:20px;
+text-align: center;
+}
+div.q p{
+  font-size:30px;
+text-align: center;
+  background: #eaedf7;
+}
+
+div.bt {
+text-align:center;
+}
+
+div.bt button{
+  background: #698aab;
+  border-radius: 20px;
+  font-size: 20px;
+  color:white;
+}
+
+div.scr p{
+text-align: center;
+  left:32em;
+  font-style: oblique;
+  font-size: 30px;
+  background:white;
+  border-radius: 20px;
+}
